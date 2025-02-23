@@ -22,15 +22,14 @@ figma-smart-home-controller/
 
 ### Home Page 
 ![Alarms](https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64)
-### Living Room Control
+### Living Room
 ![Alarms](https://github.com/user-attachments/assets/ed5d6c4b-825f-4431-a36e-6dc7ff7b7d13)
 ### Alarms
 ![Alarms](https://github.com/user-attachments/assets/708d8ac7-69f4-41e2-bc1d-ff10f34cc45e)
-### Settings
-![Alarms](https://github.com/user-attachments/assets/b1787ec0-3660-4fd3-8132-0988031066e6)
 ### Search Devices 
 ![Alarms](https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64)
-
+### Settings
+![Alarms](https://github.com/user-attachments/assets/b1787ec0-3660-4fd3-8132-0988031066e6)
 
 
 ## 🛠 How to Clone the Repository
