@@ -27,7 +27,7 @@ figma-smart-home-controller/
 ### Alarms
 ![Alarms](https://github.com/user-attachments/assets/708d8ac7-69f4-41e2-bc1d-ff10f34cc45e)
 ### Search Devices 
-![Alarms](https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64)
+![Search Devices](https://github.com/user-attachments/assets/884f776b-2935-41b5-96a0-4154e8288b6f)
 ### Settings
 ![Alarms](https://github.com/user-attachments/assets/b1787ec0-3660-4fd3-8132-0988031066e6)
 
