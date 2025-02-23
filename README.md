@@ -52,7 +52,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## Contact
 For any queries, feel free to reach out:
-- **Email:** ganeshkantle@egmail.com
+- **Email:** ganeshkantle@gmail.com
 - **GitHub:** (https://github.com/ganeshkantle)
 - **My Bento:** (https://bento.me/kantle)
 - **My Portfolio:** (https://tinuurl.com/ganeshkantle)
