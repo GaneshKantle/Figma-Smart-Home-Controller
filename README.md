@@ -6,6 +6,11 @@ The **Figma Smart Home Controller** is a UI/UX design project for an intuitive a
 ## 🔗 Figma Project Link
 [View Figma Design](https://www.figma.com/design/jLm5BGaZzCVkIEF0Tr9WbL/Smart-Home-(Community)?node-id=0-1&m=dev&t=ZpwDgyDktCZxORfR-1)
 
+## OR
+
+## Site is live 
+[Click Here](https://github.com/GaneshKantle/Figma-Smart-Home-Controller/)
+
 ## 📂 Project Directory Structure
 ```
 figma-smart-home-controller/
@@ -18,17 +23,16 @@ figma-smart-home-controller/
 ## 📸 Screenshots
 
 ### Home Page 
-(![Alarms](https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64)
+![Alarms](https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64)
 ### Living Room Control
-(![Alarms](https://github.com/user-attachments/assets/ed5d6c4b-825f-4431-a36e-6dc7ff7b7d13)
+![Alarms](https://github.com/user-attachments/assets/ed5d6c4b-825f-4431-a36e-6dc7ff7b7d13)
 ### Alarms
-(![Alarms](https://github.com/user-attachments/assets/708d8ac7-69f4-41e2-bc1d-ff10f34cc45e)
+![Alarms](https://github.com/user-attachments/assets/708d8ac7-69f4-41e2-bc1d-ff10f34cc45e)
 ### Settings
-(![Alarms](https://github.com/user-attachments/assets/b1787ec0-3660-4fd3-8132-0988031066e6)
+![Alarms](https://github.com/user-attachments/assets/b1787ec0-3660-4fd3-8132-0988031066e6)
 ### Search Devices 
-(![Alarms](https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64)
-### Search Devices 
-(![Alarms](https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64)
+![Alarms](https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64)
+
 
 
 ## 🛠 How to Clone the Repository
