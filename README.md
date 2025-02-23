@@ -7,7 +7,7 @@ The **Figma Smart Home Controller** is a UI/UX design project for an intuitive a
 
 ## OR
 
-## Site is live - [Click Here](https://github.com/GaneshKantle/Figma-Smart-Home-Controller/)
+## 🔗 Site is live - [Click Here](https://ganeshkantle.github.io/Figma-Smart-Home-Controller/)
 
 ## 📂 Project Directory Structure
 ```
