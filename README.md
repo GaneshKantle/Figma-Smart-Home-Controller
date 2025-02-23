@@ -17,10 +17,12 @@ figma-smart-home-controller/
 
 ## 📸 Screenshots
 | Home Screen | Living Room | Settings Page |
-|------------|---------------|--------------|
-| ![Home](https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64)
-| ![Living Room](https://github.com/user-attachments/assets/ed5d6c4b-825f-4431-a36e-6dc7ff7b7d13)
-| ![Settings](https://github.com/user-attachments/assets/b1787ec0-3660-4fd3-8132-0988031066e6) |
+### Home Page 
+https://github.com/user-attachments/assets/cb97b879-f14a-475a-9668-1a54ca684e64
+### Living Room 
+https://github.com/user-attachments/assets/ed5d6c4b-825f-4431-a36e-6dc7ff7b7d13
+### Settings
+(https://github.com/user-attachments/assets/b1787ec0-3660-4fd3-8132-0988031066e6) |
 
 ## 🛠 How to Clone the Repository
 To get a local copy of this repository:
