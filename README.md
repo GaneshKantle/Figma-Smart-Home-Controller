@@ -5,7 +5,7 @@ The **Figma Smart Home Controller** is a UI/UX design project for an intuitive a
 
 ## 🔗 [Figma Project Link](https://www.figma.com/design/jLm5BGaZzCVkIEF0Tr9WbL/Smart-Home-(Community)?node-id=0-1&m=dev&t=ZpwDgyDktCZxORfR-1) 
 ## OR
-## 🔗 [Figma Project Link](https://www.figma.com/design/jLm5BGaZzCVkIEF0Tr9WbL/Smart-Home-(Community)?node-id=0-1&m=dev&t=ZpwDgyDktCZxORfR-1) 
+## 🔗 [Site is live](https://github.io/GaneshKantle/Figma-Smart-Home-Controller/) 
 
 ### Contact Me for Dev Prototype link - **Email:** ganeshkantle@gmail.com
 
