@@ -3,11 +3,11 @@
 ## 📌 Project Overview
 The **Figma Smart Home Controller** is a UI/UX design project for an intuitive and interactive smart home management system. Where we can control home electronic appliances from a mobile phone, it is a seamless user experience for controlling smart devices efficiently.
 
-## 🔗 Figma Project Link - [View Figma Design](https://www.figma.com/design/jLm5BGaZzCVkIEF0Tr9WbL/Smart-Home-(Community)?node-id=0-1&m=dev&t=ZpwDgyDktCZxORfR-1)
-
+## 🔗 [Figma Project Link](https://www.figma.com/design/jLm5BGaZzCVkIEF0Tr9WbL/Smart-Home-(Community)?node-id=0-1&m=dev&t=ZpwDgyDktCZxORfR-1) 
 ## OR
+## 🔗 [Figma Project Link](https://www.figma.com/design/jLm5BGaZzCVkIEF0Tr9WbL/Smart-Home-(Community)?node-id=0-1&m=dev&t=ZpwDgyDktCZxORfR-1) 
 
-## 🔗 Site is live - [Click Here](https://ganeshkantle.github.io/Figma-Smart-Home-Controller/)
+### Contact Me for Dev Prototype link - **Email:** ganeshkantle@gmail.com
 
 ## 📂 Project Directory Structure
 ```
